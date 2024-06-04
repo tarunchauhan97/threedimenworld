@@ -10,9 +10,9 @@ This is Three 3D viewer project
 ## 📱 Screenshots
 
 
-| Astro                                              |                                                   Car                                      |
+| Astro                                              |                                                   Buildozer                                      |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/tarunchauhan97/threedimenworld/assets/30916033/a14f1df1-dd95-401f-a6cb-6d45383b8619">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/tarunchauhan97/threedimenworld/assets/30916033/5e7f1d44-73e4-4d60-ad49-75b2ec3e9c42">|
+| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/tarunchauhan97/threedimenworld/assets/30916033/a14f1df1-dd95-401f-a6cb-6d45383b8619">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/tarunchauhan97/threedimenworld/assets/30916033/ad381de2-7660-49fd-a826-ed69a403c9a8">|
 
 
 
