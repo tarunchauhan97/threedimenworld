@@ -17,7 +17,7 @@ This is Three 3D viewer project
 
 |  Gun                                        |                                                   Buildozer                                  |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/tarunchauhan97/threedimenworld/assets/30916033/a0254ea1-3ae8-4558-96f0-543cf8789020">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/tarunchauhan97/threedimenworld/assets/30916033/f4b376e4-38dd-4bfa-949b-71fcfadf013f">|
+| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/tarunchauhan97/threedimenworld/assets/30916033/99467445-4be1-49c2-8feb-1a803413bb19">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/tarunchauhan97/threedimenworld/assets/30916033/f4b376e4-38dd-4bfa-949b-71fcfadf013f">|
 
 
 
